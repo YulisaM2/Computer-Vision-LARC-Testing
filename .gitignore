@@ -1,2 +1,4 @@
 
 Videos/testing_camera.mp4
+*.jpg
+YOLO/data/yolo.h5
